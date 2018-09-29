@@ -1,5 +1,4 @@
 # Perpetual-Statistics
-Paired t tests
 
 * The following is a write up regarding stastical analysis on Stroop effect and determine the relationship when going through incongruent and congruent list of words
 
